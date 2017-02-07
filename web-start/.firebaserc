@@ -1,5 +1,6 @@
 {
   "projects": {
-    "fireChat": "chat-7244a"
+    "fireChat": "chat-7244a",
+    "firebaseChat": "friendlychat-827e0"
   }
 }
