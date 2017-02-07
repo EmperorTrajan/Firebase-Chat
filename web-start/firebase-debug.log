@@ -12,3 +12,18 @@
 [info] Public Directory: ./
 [info] 
 [info] Server listening at: http://localhost:5000
+[info] Shutting down...
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Rojean\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.2.2
+[debug] Platform:     win32
+[debug] Node Version: v4.4.7
+[debug] Time:         Tue Feb 07 2017 13:40:07 GMT+0800 (China Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: D:\Lessons\OpenSource2\friendlychat\web-start
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5000
